@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Aarif Mushtaq
 
-### AI & Data Science Engineer
+### AI & Data Science Engineer | Developer | Learner
 
-> Building, learning, and shipping in **Artificial Intelligence, Data Science & Software Engineering.**
+> **Building. Learning. Experimenting. Improving.**
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student focused on developing strong foundations in programming, data, machine learning, and AI engineering.
+I'm a **B.Tech Artificial Intelligence & Data Science** student focused on building strong foundations in **programming, software development, databases, and AI**.
 
-I enjoy turning ideas into **real-world projects**, experimenting with new technologies, and continuously improving my problem-solving skills.
+I enjoy turning ideas into practical projects, participating in technical activities, and continuously expanding my skills toward becoming a **strong AI Engineer**.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech in **Artificial Intelligence & Data Science**
-* 🤖 Focused on **AI / Machine Learning / Data Science**
+* 🎓 B.Tech **Artificial Intelligence & Data Science**
+* 💻 Strong interest in **Software Development & Artificial Intelligence**
 * 🐍 Learning and building with **Python**
-* 💻 Practicing **C++ & Data Structures and Algorithms**
-* 🗄️ Working with **SQL & Database Management Systems**
-* 🌐 Building applications with **Flask**
-* 📊 Exploring **Data Analysis & Visualization**
-* 🧠 Currently strengthening my **Machine Learning & AI foundations**
-* 🏆 Interested in **Hackathons, Open Source & Real-World Projects**
+* ⚡ Programming in **C & C++**
+* 🌐 Working with the **MERN Stack**
+* 🗄️ Learning **SQL & Database Management Systems**
+* 🧠 Practicing **Object-Oriented Programming**
+* 📚 Exploring **Data Structures & Algorithms**
+* 🚀 Interested in **AI, Machine Learning & Data Science**
+* 🏆 Participating in **Hackathons & Technical Activities**
+* 🎤 Student Coordinator at **VERITAS Language Club**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -60,8 +62,8 @@ I enjoy turning ideas into **real-world projects**, experimenting with new techn
 * Data Structures & Algorithms
 * Database Management Systems
 * SQL
-* Web Development
 * Problem Solving
+* Web Development
 
 ### 🔧 Tools
 
@@ -71,14 +73,13 @@ I enjoy turning ideas into **real-world projects**, experimenting with new techn
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
 ---
 
-## 📌 Featured Projects
+# 🚀 Projects
 
 ### 🏨 Hostel Management System
 
-A web-based hostel management system designed to manage common hostel operations.
+A web-based system designed to manage common hostel operations.
 
 **Features:**
 
@@ -90,65 +91,101 @@ A web-based hostel management system designed to manage common hostel operations
 * Student database
 * Admin authentication
 
-**Tech:** `Python` `Flask` `SQLite` `Pandas` `HTML` `CSS`
+**Technologies:**
+`Python` `Flask` `SQLite` `Pandas` `HTML` `CSS`
 
 ---
 
-### 🤖 More Projects Coming
+### 💡 More Projects
 
-Currently building and experimenting with projects in:
+Currently working on projects involving:
 
-* Machine Learning
-* Data Science
-* AI Applications
-* Automation
-* Web Applications
-* Data Analytics
+* 🌐 Web Development
+* 🐍 Python
+* 📊 Data & Analytics
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ⚙️ Software Development
 
 ---
 
-## 📚 Currently Learning
+# 🎤 VERITAS Language Club
+
+### Student Coordinator
+
+**VERITAS Language Club — University of Kashmir, North Campus**
+
+> **EXPRESS • EXPLORE • EVOLVE**
+
+VERITAS is a student-led platform focused on developing communication, expression, critical thinking, and performance skills.
+
+### Four Pillars
+
+**THINK • SPEAK • WRITE • PERFORM**
+
+### Development Cycle
+
+**LEARN → PRACTICE → PERFORM → FEEDBACK → IMPROVE**
+
+As a **Student Coordinator**, I contribute to planning, organizing, and coordinating student activities and events.
+
+### Events
+
+* 🎤 **VERITAS: THE FIRST VOICE** — Debate Event
+* 🎬 **VERITAS: AFTER THE STORY** — Movie/Short Film Screening + Debate
+* 🗣️ Communication & Public Speaking Activities
+* 💡 Student Engagement & Interactive Events
+
+---
+
+# 🏆 Hackathons & Technical Activities
+
+I actively participate in technical competitions and collaborative projects focused on solving real-world problems.
+
+Areas of interest include:
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science
+* 🌐 Web Applications
+* 💡 Problem Solving
+* 🚀 Hackathons
+* 👥 Team Collaboration
+
+---
+
+# 📚 Currently Learning
 
 ```text
-Python
-   ↓
-Data Analysis
-   ↓
-SQL & DBMS
-   ↓
+Programming
+    ↓
+Data Structures & Algorithms
+    ↓
+Python + SQL + DBMS
+    ↓
 Statistics & Mathematics
-   ↓
+    ↓
 Machine Learning
-   ↓
+    ↓
 Deep Learning
-   ↓
+    ↓
 AI Engineering
-   ↓
-MLOps & Deployment
+    ↓
+Deployment & MLOps
 ```
 
 ---
 
-## 🎯 My Goal
+# 🎯 My Goal
 
-> **Become a top-tier AI Engineer by building strong fundamentals, real-world projects, and production-ready AI systems.**
+> **Become a top-tier AI Engineer by building strong fundamentals, creating real-world projects, and developing production-ready AI systems.**
 
-I believe in:
+My approach:
 
-**Learn → Build → Break → Debug → Improve → Ship**
-
----
-
-## 🏆 Hackathons & Activities
-
-* 🚀 Participating in hackathons and technical competitions
-* 💡 Building solutions around real-world problems
-* 👥 Collaborating on student technology initiatives
-* 🧑‍💻 Exploring AI-powered applications and products
+**LEARN → BUILD → DEBUG → IMPROVE → SHIP**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarif-ai&show_icons=true&theme=transparent&hide_border=true" height="165"/>
@@ -157,7 +194,7 @@ I believe in:
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aarif-ai&theme=transparent&hide_border=true" />
@@ -165,22 +202,22 @@ I believe in:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
   <a href="https://github.com/aarif-ai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn URL here -->
-  <!-- Add your portfolio URL here -->
+  <!-- Add your LinkedIn URL -->
+  <!-- Add your Portfolio URL -->
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
 
-<p align="center">
-  ⭐ Explore my repositories and follow my journey in AI & Data Science.
+### Thanks for visiting! 👋
+
+**⭐ Explore my repositories and follow my journey in AI & Data Science.**
+
 </p>
